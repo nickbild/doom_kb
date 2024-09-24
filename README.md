@@ -1,6 +1,6 @@
-# Doomsday Button
+# The Doomsday Button
 
-There is no quicker way to get your retro gaming fix than pressing the Doomsday Button.
+There is no quicker way to get your retro gaming fix than pressing The Doomsday Button.
 
 One press of the big red button launches a game of Doom on a nearby vintage PC.
 
