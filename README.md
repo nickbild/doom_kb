@@ -26,6 +26,10 @@ The Win95 machine:
 
 ## Bill of Materials
 
+- 1 x Modern PC
+- 1 x 8Bitdo Retro Mechanical Keyboard
+- 1 x Vintage PC (Packard Bell 5340 running Win95 used here)
+
 ## About the Author
 
 [Nick A. Bild, MS](https://nickbild79.firebaseapp.com/#!/)
