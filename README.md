@@ -1,4 +1,4 @@
-# doom_kb
+# Doomsday Button
 
 ## How It Works
 
