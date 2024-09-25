@@ -24,9 +24,13 @@ QBasic in all it's glory:
 
 ![](https://raw.githubusercontent.com/nickbild/doom_kb/refs/heads/main/media/qbasic_sm.png)
 
-The Win95 machine:
+The Win95 setup:
 
 ![](https://raw.githubusercontent.com/nickbild/doom_kb/refs/heads/main/media/win95_sm.png)
+
+My Packard Bell PC:
+
+![](https://raw.githubusercontent.com/nickbild/doom_kb/refs/heads/main/media/packard_bell.png)
 
 ## Bill of Materials
 
