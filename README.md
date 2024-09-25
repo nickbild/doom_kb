@@ -2,19 +2,19 @@
 
 ![](https://raw.githubusercontent.com/nickbild/doom_kb/refs/heads/main/media/logo.jpg)
 
-There is no quicker way to get your retro gaming fix than by pressing The Doomsday Button. One press of this big red button launches a game of Doom on a nearby vintage PC.
+There is no quicker way to get your retro gaming fix than by pressing The Doomsday Button. One press of this big red button launches a game of *Doom* on a nearby vintage PC.
 
-This project was inspired by John Park's [Doom keyboard](https://www.hackster.io/news/keyboard-warriors-060948232ef6), which launches a source port of Doom on a modern computer.
+This project was inspired by John Park's [Doom keyboard](https://www.hackster.io/news/keyboard-warriors-060948232ef6), which launches a source port of *Doom* on a modern computer.
 
 ## How It Works
 
 One of the large programmable buttons on an 8BitDo Retro Mechanical Keyboard was set to a specific combination of key presses. A [python script](https://github.com/nickbild/doom_kb/blob/main/doom_kb.py) listens for that combination, and when it is detected, a [Bash script](https://github.com/nickbild/doom_kb/blob/main/ftp.sh) FTPs a zero-byte file to an FTP server running on a vintage Windows 95 PC.
 
-A QBasic program running on the vintage PC checks for the presence of that zero-byte file in a loop. When it is found, it launches Doom.
+A QBasic program running on the vintage PC checks for the presence of that zero-byte file in a loop. When it is found, it launches *Doom*.
 
 ## Media
 
-A game of Doom, anyone?
+A game of *Doom*, anyone?
 
 ![](https://raw.githubusercontent.com/nickbild/doom_kb/refs/heads/main/media/doom_intro_sm.png)
 
