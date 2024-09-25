@@ -8,6 +8,10 @@ This project was inspired by John Park's [Doom keyboard](https://www.hackster.io
 
 ## How It Works
 
+One of the large programmable buttons on an 8BitDo Retro Mechanical Keyboard was set to a specific combination of key presses. A [python script](https://github.com/nickbild/doom_kb/blob/main/doom_kb.py) listens for that combination, and when it is detected, a [Bash script](https://github.com/nickbild/doom_kb/blob/main/ftp.sh) FTPs a zero-byte file to an FTP server running on a vintage Windows 95 PC.
+
+A QBasic program running on the vintage PC checks for the presence of that zero-byte file in a loop. When it is found, it launches Doom.
+
 ## Media
 
 A game of Doom, anyone?
