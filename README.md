@@ -4,7 +4,7 @@
 
 There is no quicker way to get your retro gaming fix than by pressing The Doomsday Button. One press of this big red button launches a game of *Doom* on a nearby vintage PC.
 
-This project was inspired by John Park's [Doom keyboard](https://www.hackster.io/news/keyboard-warriors-060948232ef6), which launches a source port of *Doom* on a modern computer.
+This project was inspired by John Park's [Doom keyboard](https://www.hackster.io/news/keyboard-warriors-060948232ef6), which launches a source port of *Doom* on a modern computer. I loved the idea, but strongly prefer to play classic games on original hardware over ports or emulation.
 
 ## How It Works
 
