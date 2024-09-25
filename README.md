@@ -14,7 +14,7 @@ A QBasic program running on the vintage PC checks for the presence of that zero-
 
 ## Media
 
-[Demo video]()
+[Demo video on YouTube]()
 
 A game of *Doom*, anyone?
 
